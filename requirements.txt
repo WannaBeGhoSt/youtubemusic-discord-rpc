@@ -1,0 +1,4 @@
+discord-rpc
+colorama
+requests
+winsdk
